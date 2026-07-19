@@ -2,7 +2,8 @@
 layout: home
 title: Home
 ---
-Who you are, in one sentence — what you do now and where.
+
+Hi! My name is Sean Meng. I am a PhD candidate at Caltech working on 
 
 A paragraph of background: where you've studied or worked, what you're
 interested in, and how you got here. This is the full About content, since
