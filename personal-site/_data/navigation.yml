@@ -1,0 +1,15 @@
+- title: About
+  url: /
+- title: Research
+  url: /research/
+- title: Writing
+  url: /writing/
+- title: Projects
+  url: /projects/
+- title: Awards
+  url: /awards/
+- title: Community
+  url: /community/
+- title: CV
+  url: /assets/cv.pdf
+  external: true

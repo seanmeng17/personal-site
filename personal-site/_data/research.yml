@@ -1,0 +1,21 @@
+# Add one entry per research item, most recent first.
+# `venue` and `date` are shown together as a small caption under the title.
+# `link` is optional - omit it if there's nothing to link to yet.
+
+- title: "Example Paper Title Goes Here"
+  authors: "Your Name, Coauthor One, Coauthor Two"
+  venue: "Conference or Journal Name 2026"
+  date: "2026"
+  link: "https://example.com/paper"
+  description: >
+    One or two sentences describing what the project or paper is about,
+    written for someone outside your subfield.
+
+- title: "Second Example Project"
+  authors: "Your Name"
+  venue: "Workshop Name 2025"
+  date: "2025"
+  link: ""
+  description: >
+    Placeholder description. Replace with your real research entries -
+    just send me the details in chat and I'll add them here.
