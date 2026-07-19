@@ -1,0 +1,18 @@
+<aside class="sidebar">
+  <div class="sidebar-inner">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
+    <nav class="site-nav">
+      <ul class="nav-list">
+        {% for item in site.data.navigation %}
+        <li>
+          <a href="{{ item.url }}"{% if item.external %} target="_blank" rel="noopener"{% endif %}
+             {% if page.url == item.url %}class="active"{% endif %}>
+            {{ item.title }}{% if item.external %} ↗{% endif %}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</aside>
