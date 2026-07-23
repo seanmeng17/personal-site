@@ -1,5 +1,5 @@
 ---
-title: "Building Lab Techniques Curriculum w/ Khan Academy "
+title: "Lab Techniques Curriculum w/ Khan Academy "
 year: "2025"
 category: "community"
 kind: "Community"
