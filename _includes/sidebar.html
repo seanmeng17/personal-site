@@ -1,0 +1,12 @@
+<aside class="side">
+  <div class="name">{{ site.data.site.name }}</div>
+  <nav class="nav">
+    {% for item in site.data.site.navigation %}<a{% if page.active_page == item.key %} class="active"{% endif %} href="{{ item.url | relative_url }}">{{ item.label }}</a>{% endfor %}<a href="{{ site.data.site.cv_url | relative_url }}" target="_blank" rel="noopener noreferrer">CV ↗</a>
+  </nav>
+  <div class="social">
+    <a class="social-button" href="mailto:{{ site.data.site.email }}">Email</a>
+    <a class="social-button" href="{{ site.data.site.x_url }}" aria-label="{{ site.data.site.name }} on X">X</a>
+    <a class="social-button" href="{{ site.data.site.linkedin_url }}">LinkedIn</a>
+    <button class="toggle">Dark</button>
+  </div>
+</aside>

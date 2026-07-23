@@ -1,0 +1,19 @@
+---
+title: Writing
+active_page: writing
+body_class: writing-page
+permalink: /writing.html
+---
+<h1>Writing</h1>
+<div class="filters" aria-label="Filter writing">
+  <button class="filter active" data-filter="all">All</button>
+  <button class="filter" data-filter="essay">Essays</button>
+  <button class="filter" data-filter="note">Notes / unfinished thoughts</button>
+</div>
+
+{% assign writing_items = site.writing | sort: "order" %}
+<div class="list filter-list">
+  {% for item in writing_items %}
+  <div class="row filter-item" data-category="{{ item.category }}"><div class="date">{{ item.year }}</div><div><div class="row-title">{% if item.ready %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</div>{% if item.meta %}<div class="meta">{{ item.meta }}</div>{% endif %}{% if item.description %}<div class="description">{{ item.description }}</div>{% endif %}</div></div>
+  {% endfor %}
+</div>

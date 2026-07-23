@@ -1,0 +1,25 @@
+intro:
+  - "My name is Sean Meng. I am a scientist and engineer (in-training). I love people and building community."
+  - "Understanding the human mind is, to me, the most beautiful endeavor. With such an understanding, we can: (1) unlock deeper empathy for how we each experience the world (2) mend the broken mind. Two intertwined aspirations for a kinder world."
+  - "Doing so requires technologies that can interface with its full distributed architecture, at its relevant timescales, and at scale (most likely in minimally-invasive ways)."
+
+facts:
+  - label: "Currently"
+    text: "PhD candidate at Caltech (NSF GRFP, Chen Institute fellow), working on the above^"
+  - label: "Previously"
+    text: "I received my A.B in Neurobiology from Harvard College in 2026. From 2023-2026, I worked in <a href=\"https://sabatini.hms.harvard.edu/\">Bernardo Sabatini</a>'s group studying striatal dopamine across the mouse lifespan and its influence on cognitive flexibility. From 2025-2026, I also contributed to the development of a gene-delivery system in <a href=\"https://churchlab.hms.harvard.edu/\">George Church</a>'s group. I co-led the <a href=\"https://www.openbiolab.org/\">OpenBio Laboratory</a>, building the <a href=\"https://www.openbiolab.org/explore\">Explore</a> incubator (in collaboration with the <a href=\"https://nucleate.org/dojo/\">Nucleate Dojo</a>) and the <a href=\"https://soco.college.harvard.edu/00003/openbio-home/\">SRI</a> (Science Research Institute). I was a TIME, Yun, Roberts, and Kempner fellow; and a winner of the Hoopes prize."
+
+thinking:
+  - "<em>(fill-in-the-blank: opto, sono, magneto)</em>-genetics in humans."
+  - "How dopamine dynamics shape our reward learning <em>(thereby forming our personalities, proclivities, and the way we interface with our environments)</em>."
+  - "Agency loss, <em>(where and how do we properly draw the line between an exogenous technology guiding us vs overriding us)</em>."
+  - "PNS axon regeneration, grafting, and Wallerian degeneration <em>(how can we borrow principles from adjacent systems to reawaken an aged/diseased brain’s capacities?)</em>."
+  - "Gut microbiota characterization + engineering <em>(how much can we improve our wellbeing just by reconstituting friendly microbes?)</em>"
+  - "The DREAM complex, mitochondrial damage, and glymphatic clearance in the aged brain <em>(how do we best push and pull these known levers of dysfunction?)</em>"
+  - "Citizen science <em>(and how powerful+productive we can be, all working together)</em>. Relatedly, pedagogy for how best to bring out the unique light in others."
+  - "Common denominator molecules that underlie cuisines and our varied palates <em>(and how (my) cooking could be engineered to optimize)</em>."
+  - "Circuits underlying novelty and their role in slowing the <em>(retrospective)</em> perception of time."
+  - "Autonomous labs <em>(what should they look like? What is the key “essence” of the scientist after the vision is realized?)</em>"
+  - "Faith <em>(religion, conviction, and rationality in a secularizing world; how are two fundamental worldviews reconciled in the modern day)</em>"
+
+contact: "seanmeng [at] caltech.edu // (personal) seanmeng17 [at] gmail.com"

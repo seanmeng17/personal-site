@@ -1,0 +1,38 @@
+title: "Sean Meng"
+description: "Personal website of Sean Meng — scientist, engineer, and community builder."
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  writing:
+    output: true
+    permalink: /writing/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "writing"
+    values:
+      layout: "item"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "item"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vercel.json
+  - vendor

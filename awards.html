@@ -1,0 +1,11 @@
+---
+title: Awards
+active_page: awards
+body_class: awards-page
+permalink: /awards.html
+---
+<h1>Awards</h1>
+
+{% for award in site.data.awards %}
+<article class="award"><div class="award-date">{{ award.date }}</div><div><h3>{{ award.title }}</h3>{% if award.link and award.link != "" %}<a class="award-link" href="{{ award.link }}">Link ↗</a>{% endif %}<div class="award-issued">Issued by {{ award.issuer }} · {{ award.issued }}</div>{% if award.description and award.description != "" %}<div class="description">{{ award.description }}</div>{% endif %}</div></article>
+{% endfor %}

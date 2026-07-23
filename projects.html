@@ -1,0 +1,19 @@
+---
+title: Projects
+active_page: projects
+body_class: projects-page
+permalink: /projects.html
+---
+<h1>Projects</h1>
+<div class="filters" aria-label="Filter projects">
+  <button class="filter active" data-filter="all">All</button>
+  <button class="filter" data-filter="community">Community</button>
+  <button class="filter" data-filter="science">Science</button>
+</div>
+
+{% assign project_items = site.projects | sort: "order" %}
+<div class="filter-list">
+  {% for item in project_items %}
+  <article class="project filter-item" data-category="{{ item.category }}"><div class="date">{{ item.year }}</div><div><div class="kind">{{ item.kind }}</div><div class="project-title">{% if item.ready %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</div>{% if item.description %}<div class="description">{{ item.description }}</div>{% endif %}</div></article>
+  {% endfor %}
+</div>

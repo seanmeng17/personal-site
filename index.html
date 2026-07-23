@@ -1,0 +1,27 @@
+---
+title: About
+active_page: about
+permalink: /index.html
+---
+<h1>About</h1>
+<div class="intro">
+  {% for paragraph in site.data.about.intro %}
+  <p>{{ paragraph }}</p>
+  {% endfor %}
+</div>
+
+<div class="facts">
+  {% for fact in site.data.about.facts %}
+  <div class="fact"><div class="label">{{ fact.label }}</div><div>{{ fact.text }}</div></div>
+  {% endfor %}
+</div>
+
+<h2>Thinking about:</h2>
+<ul class="thinking">
+  {% for thought in site.data.about.thinking %}
+  <li>{{ thought }}</li>
+  {% endfor %}
+</ul>
+
+<h2>Contact</h2>
+<p>{{ site.data.about.contact }}</p>

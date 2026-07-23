@@ -1,0 +1,27 @@
+---
+title: Research
+active_page: research
+body_class: research-page
+permalink: /research.html
+---
+<h1>Research</h1>
+<div class="intro">
+  {% for paragraph in site.data.research.intro %}
+  <p>{{ paragraph }}</p>
+  {% endfor %}
+</div>
+
+<h2 class="publications-heading">Publications</h2>
+<h3>In progress:</h3>
+<div class="list">
+  {% for item in site.data.research.in_progress %}
+  <div class="row"><div class="date">{{ item.date }}</div><div class="row-title">{{ item.authors }} <span class="publication-title">{{ item.title }}</span> <em>{{ item.status }}</em></div></div>
+  {% endfor %}
+</div>
+
+<h2>Out in the world:</h2>
+<div class="list">
+  {% for item in site.data.research.published %}
+  <div class="row"><div class="date">{{ item.date }}</div><div><div class="row-title">{{ item.authors }} <span class="publication-title">{{ item.title }}{% if item.title_emphasis %} <em>{{ item.title_emphasis }}</em>{% endif %}</span>{% if item.details %} <span class="publication-details">{{ item.details }}</span>{% endif %}</div>{% if item.links %}<div class="meta">{% for link in item.links %}<a href="{% if link.url contains '://' or link.url == '#' %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}"{% if link.download %} download{% endif %}>{{ link.label }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</div>{% endif %}</div></div>
+  {% endfor %}
+</div>

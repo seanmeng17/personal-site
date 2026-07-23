@@ -1,0 +1,48 @@
+intro:
+  - "My curiosities have taken me from systems/circuit neuroscience, to genetics, to engineering. I like to think and ask my questions somewhere in between."
+  - "I started my research journey in <a href=\"https://sabatini.hms.harvard.edu/\">Bernardo Sabatini</a>'s lab, curious about how and why we interact differently with the world as we grow up and grow old. Under the mentorship of <a href=\"https://mastrok.github.io/\">Kevin Mastro</a>, I investigated the impact of aging on (1) interneuron microcircuits in mouse PFC and (2) dopamine in mouse ventral striatum. Our full research program bridged an extensive behavioral assay (2-arm bandit) with these neural recordings."
+  - "This work led me to appreciate that (1) the brain must be understood as a spatially distributed, but highly functionally coordinated system, and (2) the tools available to the scientific community are not designed to probe more than one part of it at a time. I spent a year in <a href=\"https://churchlab.hms.harvard.edu/\">George Church</a>'s lab, working with Dr. <a href=\"https://churchlab.hms.harvard.edu/church-lab-member/juseong-lee\">Juseong Lee</a> on viral genome engineering strategies for multiplexed control across cell types."
+  - "Now rotating at Caltech to find a new home for my research interests!"
+
+in_progress:
+  - date: "2026"
+    authors: "Mastro K, Lee W-C, Wang W, Meng S, Stevens B, Sabatini B."
+    title: "Delayed developmental maturation of frontal cortical circuits impacts decision-making."
+    status: "In Resubmission."
+  - date: "2026"
+    authors: "Mastro K, Melain A, Stanwicks L, Meng S, Stevens B, Sabatini B."
+    title: "Alterations in reward-based decision-making in mouse and marmoset across the lifespan."
+    status: "In Prep."
+
+published:
+  - date: "2026"
+    authors: "Meng S, Sabatini B."
+    title: "Rewired by Time : A Dopaminergic Account of Cognitive Flexibility across the Mouse Lifespan."
+    title_emphasis: "Dissertation."
+    details: "Collections of the Harvard University Archives (Theses/Prize Papers), Cambridge, MA, United States."
+    links:
+      - label: "Paper"
+        url: "https://id.lib.harvard.edu/alma/99161606575803941/catalog"
+      - label: "TL;DR"
+        url: "#"
+      - label: "News Feature"
+        url: "https://college.harvard.edu/about/news/how-does-dopamine-shape-our-choices-thesis-investigates"
+      - label: "Instagram Feature"
+        url: "https://www.instagram.com/p/DYzv3Fay8Yu/"
+      - label: "Download PDF"
+        url: "/assets/documents/Sean-Meng-Senior-Thesis.pdf"
+        download: true
+  - date: "2025"
+    authors: "Mastro K, Lee W-C, Wang W, Meng S, Lin Y, Johnson MB, Sabatini B, Stevens B."
+    title: "Age-related changes in prefrontal cortex drives cellular, circuit and reward-based decision making in mouse and marmoset."
+    details: "Nanosymposium presented at: Society for Neuroscience Annual Meeting (SfN); 2025 Nov; San Diego, CA, United States."
+  - date: "2024"
+    authors: "Meng S, Lee W-C, Lord-Arond K, Mastro K, Wang W, Sabatini B."
+    title: "Identifying prefrontal cortex excitatory neural correlates to age-related shifts in decision-making strategy through fiber photometry system."
+    details: "Poster session presented at: Kempner Institute Symposium; 2024 Aug; Harvard University, Cambridge, MA, United States."
+    links:
+      - label: "Download PDF"
+        url: "/assets/documents/Sean-Meng-Kempner-Poster.pdf"
+        download: true
+      - label: "TL;DR"
+        url: "#"
