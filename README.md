@@ -96,12 +96,21 @@ kind: "Science"
 order: 1
 ready: false
 active_page: projects
+links:
+  - label: "Website"
+    url: "https://example.com"
+  - label: "Download PDF"
+    url: "/assets/documents/example.pdf"
+    download: true
 ---
 
 Write the project description here in Markdown.
 ```
 
 Use `category: community` and `kind: Community` for community projects.
+
+The optional `links` list appears beneath the project on the Projects page. Add as many links as needed. Set `download: true` only for files that should download rather than open normally.
+
 
 ## Other common edits
 
