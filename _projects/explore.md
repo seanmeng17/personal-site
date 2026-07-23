@@ -1,5 +1,5 @@
 ---
-title: "Explore w/ Nucleate Dojo"
+title: "Explore Incubator w/ Nucleate Dojo"
 year: "2026"
 category: "community"
 kind: "Community"
