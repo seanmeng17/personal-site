@@ -1,5 +1,5 @@
 ---
-title: "Conference"
+title: "Future of Biology Conference"
 year: "2025"
 category: "community"
 kind: "Community"
