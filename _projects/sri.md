@@ -1,5 +1,5 @@
 ---
-title: "SRI"
+title: "The Student Research Institute (SRI)"
 year: "2026"
 category: "community"
 kind: "Community"
