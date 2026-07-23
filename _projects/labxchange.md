@@ -1,5 +1,5 @@
 ---
-title: "Khan Academy / LabXChange"
+title: "Building Lab Techniques Curriculum w/ Khan Academy "
 year: "2025"
 category: "community"
 kind: "Community"
