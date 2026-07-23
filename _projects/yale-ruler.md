@@ -1,5 +1,5 @@
 ---
-title: "Yale RULER"
+title: "Yale Centre for Emotional Intelligence RULER AI-courseware Development"
 year: "2025"
 category: "community"
 kind: "Community"
