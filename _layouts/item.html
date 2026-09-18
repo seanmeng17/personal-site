@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<a class="back-link" href="{{ '/' | append: page.active_page | append: '.html' | relative_url }}">← Back to {{ page.active_page | capitalize }}</a>
 <h1>{{ page.title }}</h1>
 {% if page.meta %}<div class="meta">{{ page.meta }}</div>{% endif %}
-{{ content }}
+<article class="article-content">
+  {{ content }}
+</article>
