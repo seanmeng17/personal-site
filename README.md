@@ -66,6 +66,12 @@ Published entries may also contain `details` and a `links` list. Copy an existin
 
 ## Add writing
 
+The PhD applications essay lives in `_writing/A hitchhiker's guide to PhD apps.md`
+and opens at `/writing/hitchhikers-guide-to-phd-apps/`. Paste its contents below
+the closing `---` in that file. Use `## Heading` for sections and
+`[link text](https://example.com)` for links. Remove `meta: "Coming soon"` and
+the placeholder paragraph when the essay is ready. No HTML editing is needed.
+
 Copy an existing Markdown file in `_writing/`, rename it, and edit its front matter:
 
 ```yaml
