@@ -65,7 +65,7 @@ a{text-decoration-thickness:1px;text-underline-offset:3px}
 .article-content h3{margin:24px 0 12px}
 .article-content pre{overflow-x:auto}
 .article-content li{margin-bottom:7px}
-.article-cover{display:block;width:100%;height:auto;margin:27px 0 34px}
+.article-cover{display:block;width:min(100%,620px);height:auto;margin:27px 0 34px}
 .longform-layout{display:grid;grid-template-columns:minmax(0,620px) 175px;gap:32px;align-items:start}
 .longform-content{font-size:14px;line-height:1.68;margin-top:0;min-width:0}
 .longform-content p{margin-bottom:18px}
