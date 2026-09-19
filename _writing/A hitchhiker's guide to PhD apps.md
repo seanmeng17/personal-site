@@ -405,7 +405,7 @@ Instead, what I’ll do is attach **my schedule** from Caltech and add a couple 
 
 The vast majority of your interviews will start with: 
 
-1. **“Tell me about a recent research project you were involved in”**  
+**1. “Tell me about a recent research project you were involved in”**  
      
    A good answer will *(in \~5 minutes)*:   
 1) Clearly articulate the motivating question  
@@ -483,7 +483,7 @@ Your answer should reflect maturity and should show that you’ve clearly though
 
    
 
-5\. **What do you want to study?** 
+**5\. What do you want to study?** 
 
    If you have a clear idea, great. Articulate it well, but be mindful not to frame yourself as *too* narrowly focused and uninterested in anything else. I’ve seen this backfire. Try to incorporate other ways of looking at the question besides your primary approach. Link this to how faculty in the program might teach and support you.  
 
@@ -503,7 +503,7 @@ Your answer should reflect maturity and should show that you’ve clearly though
    This one is a fun one\! Let your imagination run wild\! It can be highly naive and ambitious or it can be super small and niche. Ideally though, you will ground the experiment in (1) a clear **why** (2) the **limitations** that keep you from doing it now (3) a general roadmap of **how** you would approach it. 
 
 **7\. Do you have any questions for me?**   
-   **You should.** You are not only trying to perform well. You are collecting evidence about the place where you may spend the next five or six years. (See *March* for a more comprehensive list of questions you could consider) 
+   You should. You are not only trying to perform well. You are collecting evidence about the place where you may spend the next five or six years. (See *March* for a more comprehensive list of questions you could consider) 
 
 **Reflections:**
 
@@ -660,13 +660,11 @@ What I will do here is attach my statements as well as the comments from reviewe
 
 <div class="download-list">
   <strong>NSF application materials</strong>
-  <a href="/assets/documents/NSF%20Research%20Proposal_Meng.pdf">NSF research proposal <span>PDF</span></a>
-  <a href="/assets/documents/NSF%20Personal%20Statement.pdf">NSF personal statement <span>PDF</span></a>
+  <a href="/assets/documents/NSF%20Research%20Proposal_Meng.pdf">NSF Research Proposal <span>PDF</span></a>
+  <a href="/assets/documents/NSF%20Personal%20Statement.pdf">NSF Personal Statement <span>PDF</span></a>
 </div>
 
-# 
 
-# 
 
 ## Addendum
 
@@ -707,7 +705,6 @@ Unfortunate moments aside, this application season was, by far, the most rewardi
 
 \- Cherry 
 
-## 
 
 ### UK
 {: .phase-heading}
@@ -755,7 +752,6 @@ Application strategy for **direct entry** is equivalent to that discussed by Sea
 
 For **CDT programs**, application timelines are equivalent, but the *training year* course structure changes the focus from a *research niche* (a lab, a PI, or a project) to a *research theme* (a set of labs, PIs, or projects). In your **SoP and interview**, you will need to demonstrate knowledge of the relevant *research themes* with specific examples.
 
-## 
 
 ### China
 {: .phase-heading}
@@ -803,6 +799,7 @@ Under this system, students can apply directly to a PhD programme after completi
 | 2\. Recommendation Exempt Master’s → Master’s → Apply for PhD | You receive a recommendation exemption from your undergraduate institution, enter a Master’s program without entrance exams, and later apply for a PhD after finishing your Master’s. | Students with excellent undergraduate grades and a strong research track record. |
 | 3\. Direct Entry PhD via Recommendation (Skip Master’s) | With recommendation exemption, you are admitted directly to a PhD program, bypassing the Master’s stage altogether. | A very select group of students with toptier undergraduate performance and exceptional research potential. |
 | 1\. Direct PhD Application after Bachelor’s (No Recommendation Required) （Currently only Westlake University） | No recommendation exemption is needed; you can apply directly after graduation, similar to the directentry PhD model commonly used in overseas universities. | Undergraduates with a solid research background and clearly defined academic goals. |
+
 
    
 Initially, I was preparing to apply for PhD programmes in the UK and the US, so I decided not to pursue a recommendation exemption. As a result, all of my application materials were prepared according to the UK/US application system (you can refer to Sean’s section for more details).
