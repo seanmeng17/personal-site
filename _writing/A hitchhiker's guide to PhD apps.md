@@ -52,6 +52,7 @@ After some consideration, a sensible way I thought to lay this out would be to:
   </div>
 </figure>
 
+
 ### One year before
 
 The application cycle can be time-, energy-, and money-consuming (application fees add up quickly…). I would strongly advocate that you **not** rush into it. The best cycle is not necessarily the earliest one; it is the one in which you have (1) enough research depth, (2) strong enough letters, and (3) a clear enough reason to apply. 
@@ -109,6 +110,7 @@ Below, I propose three important components that you should have clarity on befo
 
    They are also important for (2) **the program**. Estimates would put the cost of a (biology-related) PhD student to be \~75k-110k USD per year (40-60k USD stipend, lab costs, faculty time, and other overheads). You have to be pretty solidly committed, with a genuine WHY, for the institution to also want to invest back into you\! 
 
+
 ### A couple sobering thoughts on the successful candidate
 There were a couple commonalities I noticed across the candidates who were interviewed and admitted. I will lay them out for you below (in no particular order): 
 
@@ -130,7 +132,7 @@ There were a couple commonalities I noticed across the candidates who were inter
 
    
 
-   My friend Ben (who kindly gave his comments) added: *“The bar for a conference poster, even an internationally recognized one, is substantially less than a peer reviewed journal. Also WAY faster turnaround\! Having a first-author conference poster also helps show that you actually lead a part of the project, rather than being more of a lab tech role.”* 
+   My friend Ben added: *“The bar for a conference poster, even an internationally recognized one, is substantially less than a peer reviewed journal. Also WAY faster turnaround\! Having a first-author conference poster also helps show that you actually lead a part of the project, rather than being more of a lab tech role.”* 
 
    
 
@@ -190,15 +192,18 @@ I had known since the start of my junior year in undergrad that I wanted to purs
 1. Draft the main research body of your SoP   
 2. Research potential mentors 
 
+
 ***How to tell your research story?*** 
 
-***\[Research Section, \~65-75% of essay\]***
 
 <figure class="guide-figure sop-map" aria-label="Statement of purpose structure">
   <figcaption>A useful statement-of-purpose balance</figcaption>
   <div class="sop-bar"><span class="sop-research">Research story <strong>65–75%</strong></span><span class="sop-fit">Program fit <strong>25–35%</strong></span></div>
   <div class="logic-chain"><span>Question</span><span>Hypothesis</span><span>Approach</span><span>Finding</span><span>Meaning</span><span>Next question</span></div>
 </figure>
+
+***\Research Section, \~65-75% of essay\***
+
 One of the most important lessons my mentor taught me about science (and in particular, writing about it) is to ALWAYS lead with the question. That is the core of EVERYTHING we do in our field, and it is oftentimes forgotten amidst the techniques we use and our day-to-day tasks. 
 
 * **WHY?** Why is this question interesting? Why did you do things the way you did them? This should motivate all the things about your project that you want to communicate following this. After all, the WHY is what should have guided the choices you made regarding your approach and methods. ***Lead with the WHY.*** 
@@ -223,10 +228,11 @@ It is super easy to copy and paste a lab website and ChatGPT a generic 2-liner. 
 
 It is, above all, in your interest to find the right lab. 
 
+
 ***How to research potential mentors?***
 
 <figure class="guide-figure funnel-map" aria-label="Program selection funnel">
-  <figcaption>From broad search to a defensible school list</figcaption>
+  <figcaption> An example decision-making funnel you might find helpful </figcaption>
   <div class="funnel-step"><strong>1</strong><span>Geography and personal constraints</span></div>
   <div class="funnel-step"><strong>2</strong><span>Departments aligned with your questions</span></div>
   <div class="funnel-step"><strong>3</strong><span>At least three plausible mentors</span></div>
@@ -297,16 +303,14 @@ Have the conversations and send the portal invites. Ensure your writers have you
 
 Though not a requirement, I am told by my mentors that this was a highly helpful resource to them\! Just send it as a pdf alongside your CV and working drafts of your SoP. 
 
-**Beginning filling things out on the application portals \[note additional essays\]** 
+**Beginning filling things out on the application portals** 
+There are some rather tedious/mindless data entry tasks for some of the applications you will submit. Some schools also have thoughtful additional essays to consider!
 
-**The rest of the application:**
-
-Do not mistake the SoP for the whole application. Depending on the program, you may also need an academic CV, transcripts, a personal/ background/diversity statement, and several short answers. 
+**The rest of the application:** Do not mistake the SoP for the whole application. Depending on the program, you may also need an academic CV, transcripts, a personal/ background/diversity statement, and several short answers. 
 
 My advice here is to read **each prompt carefully.** A personal statement is **not** a second SoP, and a 200-word response is **not** a compressed 1,000-word essay. Be clear on what is being asked of you and make sure your essays do not repeat redundant information.  
 
-**Application Portal Jump Scares:**   
-Make your application portal accounts well ahead of time\! Some will ask you to manually input every course you took in college (which takes time). Some (e.g. UPenn) will have an additional essay that you won’t know about until you open the actual application on the portal. Give yourself enough time to do this well. 
+**Application Portal Jump Scares:**  Make your application portal accounts well ahead of time\! Some will ask you to manually input every course you took in college (which takes time). Some (e.g. UPenn) will have an additional essay that you won’t know about until you open the actual application on the portal. Give yourself enough time to do this well. 
 
 **Fee waivers\!**   
 If your are eligible (and I highly recommend you check), now would be a good time to get your FAFSA (and/or other requested materials together)\! 
@@ -345,6 +349,8 @@ There are 2 ways to go about this period of time:
 I wish I had been person 1\. In reality, I was very much person 2\. If you find yourself like this, don’t blame yourself and appreciate that you worked incredibly hard and want this really bad\! It’s natural to be uneasy about the uncertainty. 
 
 Though I do not wish this added stressor into the mix, I do feel compelled to share some further information (in the spirit of transparency). Every year, without fail, some industrious (and highly generous) peers make a public [spreadsheet](https://docs.google.com/spreadsheets/d/14wqgV9JigMHmPXi4pgU-l8JvZc8AFqT2Q-badkoSTKo/edit?usp=sharing) where people share interview invitations they receive. Queries and updates alike also periodically get posted on reddit under the thread r/gradadmission. 
+
+![r/gradadmission][image3]
 
 If you wish to partake, good luck and make sure to take extra good care of your mental health. If I were you, I would try to fight that urge as much as possible. But alas, each to their own.. 
 
@@ -390,7 +396,7 @@ Instead, what I’ll do is attach **my schedule** from Caltech and add a couple 
 **Schedule**
 
 <details class="schedule-example">
-  <summary>View my sample Caltech interview schedule</summary>
+  <summary>My Caltech interview schedule</summary>
   <a href="/assets/images/phd-apps-image2.png" target="_blank" rel="noopener noreferrer"><img src="/assets/images/phd-apps-image2.png" alt="My three-day Caltech PhD interview schedule"></a>
 </details>
 
@@ -429,7 +435,8 @@ Good answers will:
 
    Whatever you do, do not **lie** or **make something up**. This is probably the single worst thing you can do. **Don’t do it.** 
 
-   
+
+
 
    **2\. Tell me about a time you failed** 
 
@@ -449,9 +456,9 @@ Good answers will:
 
    
 
-   3\. **Why graduate school?** 
 
-   1. Another version of this that I got was: **Where will I see you in 20 years?** 
+   **3\. Why graduate school?** 
+   Another version of this that I got was: **Where will I see you in 20 years?** 
 
 	Avoid answer like:  
 
@@ -464,7 +471,7 @@ Good answers will:
 
 Your answer should reflect maturity and should show that you’ve clearly thought about how this PhD fits into your long-term goals. 
 
-2. **Why this institution?** 
+**4\. Why this institution?** 
 
    Each institution has its unique approach, training style, broader questions of interest, and cultural/geographic environment. These are all things you can tap into as you consider what *really does* make this institution suitable for your research. If you happen to have former colleagues or friends who are at these places, ask them what makes their institution unique\! 
 
@@ -476,7 +483,7 @@ Your answer should reflect maturity and should show that you’ve clearly though
 
    
 
-3. **What do you want to study?** 
+5\. **What do you want to study?** 
 
    If you have a clear idea, great. Articulate it well, but be mindful not to frame yourself as *too* narrowly focused and uninterested in anything else. I’ve seen this backfire. Try to incorporate other ways of looking at the question besides your primary approach. Link this to how faculty in the program might teach and support you.  
 
@@ -487,7 +494,7 @@ Your answer should reflect maturity and should show that you’ve clearly though
    **Tl;dr** any answer is fine, as long as you make clear why the program is suitable for you to study what you want to study.
 
 
-4. **What is your dream experiment?** 
+**6\. What is your dream experiment?** 
 
    Not that common, but I encountered it twice so thought I’d include.
 
@@ -495,7 +502,7 @@ Your answer should reflect maturity and should show that you’ve clearly though
 
    This one is a fun one\! Let your imagination run wild\! It can be highly naive and ambitious or it can be super small and niche. Ideally though, you will ground the experiment in (1) a clear **why** (2) the **limitations** that keep you from doing it now (3) a general roadmap of **how** you would approach it. 
 
-5. **Do you have any questions for me?**   
+**7\. Do you have any questions for me?**   
    **You should.** You are not only trying to perform well. You are collecting evidence about the place where you may spend the next five or six years. (See *March* for a more comprehensive list of questions you could consider) 
 
 **Reflections:**
@@ -546,7 +553,8 @@ Once you know that you would not attend a scheduled interview or accept an offer
 **Waitlists**  
 I did not have a waitlist process, so I do not want to manufacture advice from experience I do not have. I have asked Cherry to contribute a short section to the addendum about what the process looked like from her side (see below)\! 
 
-***Now your next big decision comes on (or more likely before) April 15\.*** 
+
+**Now your next big decision comes on (or more likely before) April 15\.**
 
 In this window of time, you should (1) rest/relax but also (2) gather as much information as you can to make this decision in a comprehensive and informed way\! 
 
@@ -555,6 +563,7 @@ I remember spending quite a bit of time in March trying to speak with members of
 Looking back at my own notes, I tended to ask a lot about intellectual direction, day-to-day mentorship, independence, techniques, collaboration, graduation, social life, and geography.
 
 ***Key note:*** A program will **always** describe itself as collaborative and supportive. Your assessment should come from tangible examples and whether faculty, junior students, and senior students tell compatible stories. And to get the real scoop, *save the more sensitive questions for students when faculty are not present.*
+
 
 **Here is a non-exhaustive list of questions I had jotted down in my notebook:** 
 
@@ -634,7 +643,7 @@ Sean
 
 <div class="download-list">
   <strong>Application material</strong>
-  <a href="/assets/documents/original%5Bpersonal%20site%5D%20CalTech%20Statement%20of%20Purpose_Meng%20.pdf">Caltech statement of purpose <span>PDF</span></a>
+  <a href="/assets/documents/original%5Bpersonal%20site%5D%20CalTech%20Statement%20of%20Purpose_Meng%20.pdf">Caltech Statement of Purpose <span>PDF</span></a>
 </div>
 
 ## NSF GRFP
@@ -832,3 +841,5 @@ Good luck everyone\!
 [image1]: /assets/images/phd-apps-image1.png
 
 [image2]: /assets/images/phd-apps-image2.png
+
+[image3]: /assets/images/phd-apps-image3.png
