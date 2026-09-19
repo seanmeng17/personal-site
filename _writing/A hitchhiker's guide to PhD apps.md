@@ -3,7 +3,7 @@ title: "A hitchhiker's guide to PhD apps"
 year: "2026"
 category: "essay"
 order: 1
-meta: "Summer 2026 · approximately 55–65 minutes"
+meta: "Summer 2026 · approximately 35–45 minutes"
 ready: true
 active_page: writing
 permalink: /writing/hitchhikers-guide-to-phd-apps/
