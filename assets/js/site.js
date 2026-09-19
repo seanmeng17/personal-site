@@ -27,6 +27,11 @@ document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach((li
   link.rel = 'noopener noreferrer';
 });
 
+document.querySelectorAll('a[href$=".pdf"]').forEach((link) => {
+  link.target = '_blank';
+  link.rel = 'noopener noreferrer';
+});
+
 document.querySelectorAll('.filters').forEach((filterGroup) => {
   const filters = filterGroup.querySelectorAll('.filter');
   const list = filterGroup.nextElementSibling;
@@ -44,3 +49,30 @@ document.querySelectorAll('.filters').forEach((filterGroup) => {
     });
   });
 });
+
+const essayHeadings = [...document.querySelectorAll('.longform-content h2, .longform-content h3')];
+
+if (essayHeadings.length) {
+  const usedIds = new Set();
+  essayHeadings.forEach((heading) => {
+    let id = heading.textContent.trim().toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '') || 'section';
+    const baseId = id;
+    let suffix = 2;
+    while (usedIds.has(id)) id = `${baseId}-${suffix++}`;
+    usedIds.add(id);
+    heading.id = id;
+  });
+
+  document.querySelectorAll('[data-essay-toc]').forEach((toc) => {
+    essayHeadings.forEach((heading) => {
+      const link = document.createElement('a');
+      link.href = `#${heading.id}`;
+      link.textContent = heading.textContent;
+      link.className = heading.tagName === 'H3' ? 'toc-subsection' : 'toc-section';
+      if (heading.classList.contains('phase-heading')) link.classList.add('toc-phase');
+      toc.appendChild(link);
+    });
+  });
+}
