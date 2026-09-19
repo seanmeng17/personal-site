@@ -1,6 +1,6 @@
 ---
 title: "Integrative Single-Cell Transcriptomic and Epigenomic Profiling Reveals Epigenetically Primed Gene Programs and Dynamic Switchpoints in Microglial Aging"
-year: "2026"
+year: "2024"
 category: "science"
 kind: "Science"
 order: 6
