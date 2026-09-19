@@ -1,6 +1,6 @@
 ---
 title: "Yale Centre for Emotional Intelligence RULER AI-courseware Development"
-year: "2025"
+year: "2021"
 category: "community"
 kind: "Community"
 order: 3
