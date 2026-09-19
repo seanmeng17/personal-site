@@ -202,7 +202,7 @@ I had known since the start of my junior year in undergrad that I wanted to purs
   <div class="logic-chain"><span>Question</span><span>Hypothesis</span><span>Approach</span><span>Finding</span><span>Meaning</span><span>Next question</span></div>
 </figure>
 
-***\Research Section, \~65-75% of essay\***
+***Research Section, \~65-75% of essay\***
 
 One of the most important lessons my mentor taught me about science (and in particular, writing about it) is to ALWAYS lead with the question. That is the core of EVERYTHING we do in our field, and it is oftentimes forgotten amidst the techniques we use and our day-to-day tasks. 
 
@@ -220,7 +220,7 @@ One of the most important lessons my mentor taught me about science (and in part
 
 The content of this main body describing your research can stay fairly standard across programs. The only big change that you might encounter is differences in word count. Some schools will give you 1500 words. Some 1000, 750, 500, even 250\. My advice here would be to prepare 3 versions: long (1000-ish words), medium (600-ish words), short (300-ish words). As for how to do this, that really is for you to figure out\! Try not to cut important parts to your story if you can avoid it, there is usually fluff that trims itself with a close read and an extra emphasis on concision. 
 
-***\[Fit Section, \~25-35% of essay\]***
+***Fit Section, \~25-35% of essay\***
 
 The last quarter (or so) of the SoP typically is reserved for you to tell the admissions committee why *their* program. The best way to demonstrate fit is to clearly articulate who you want to work with and why. 
 
