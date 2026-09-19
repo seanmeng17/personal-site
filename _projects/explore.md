@@ -1,6 +1,6 @@
 ---
 title: "Explore Incubator w/ Nucleate Dojo"
-year: "2026"
+year: "2023"
 category: "community"
 kind: "Community"
 order: 1
