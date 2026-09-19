@@ -1,6 +1,6 @@
 ---
 title: "The Student Research Institute (SRI)"
-year: "2026"
+year: "2025"
 category: "community"
 kind: "Community"
 order: 2
