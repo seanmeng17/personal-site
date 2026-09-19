@@ -4,6 +4,15 @@ layout: default
 <a class="back-link" href="{{ '/' | append: page.active_page | append: '.html' | relative_url }}">← Back to {{ page.active_page | capitalize }}</a>
 <h1>{{ page.title }}</h1>
 {% if page.meta %}<div class="meta">{{ page.meta }}</div>{% endif %}
-<article class="article-content">
-  {{ content }}
-</article>
+{% if page.cover %}<img class="article-cover" src="{{ page.cover | relative_url }}" alt="A glowing compass tracing a route through a star field">{% endif %}
+{% if page.longform %}
+<div class="longform-layout">
+  <article class="article-content longform-content">
+    <details class="mobile-contents" open><summary>Contents</summary><nav data-essay-toc></nav></details>
+    {{ content }}
+  </article>
+  <aside class="essay-toc"><strong>IN THIS GUIDE</strong><nav data-essay-toc></nav></aside>
+</div>
+{% else %}
+<article class="article-content">{{ content }}</article>
+{% endif %}
