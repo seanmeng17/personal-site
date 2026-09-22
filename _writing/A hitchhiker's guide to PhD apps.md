@@ -831,7 +831,7 @@ No matter where you end up, keep loving life. This journey may be full of thorns
 
 ## Acknowledgements
 
-I’d like to thank Cherry Chen, Nathan Ewer, and Jie Yang for their thoughts and contributions to this piece. I’m grateful to Cold Spring Harbor Asia (particularly Tianyi Mao and Yulong Li) for bringing us together and inspiring the compilation of these perspectives. I’d like to thank Ben Chang for providing helpful comments and encouragement. I’d also like to thank Kevin Mastro who was the original source of all my insights into this process.  
+I’d like to thank Cherry Chen, Nathan Ewer, and Jie Yang for their thoughts and contributions to this piece. I’m grateful to Cold Spring Harbor Asia (particularly to Tianyi Mao and Yulong Li) for bringing us together and inspiring the compilation of these perspectives. I’d like to thank Ben Chang for providing helpful comments and encouragement. I’d also like to thank Kevin Mastro who was the original source of all my insights into this process.  
 
 Good luck everyone\!
 
